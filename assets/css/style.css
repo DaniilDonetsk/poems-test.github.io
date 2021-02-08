@@ -1,0 +1,144 @@
+.header-poem{
+  background-repeat: no-repeat;
+  background-image: url(https://cdn.glitch.com/052c7b28-1587-4329-9a14-92477ac6fc55%2Fback-head.png?v=1612646647675);
+  background-position: center;
+  background-size: cover;
+}
+
+.btn-poem{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  display: inline-block;
+  cursor: pointer; 
+  text-decoration:none;
+  padding:15px 50px; 
+  color:#ffffff;
+  background:#b27569;
+  border-radius: 0px 30px 0px 30px;
+  border: 0px solid #ffffff;
+  box-shadow: 0px 4px 8px 5px rgba(179, 117, 105, 0.6);
+  font-family: sans-serif;
+}
+.btn-poem:hover{
+  background:#b27569;
+  color:#fff;
+  font-family: sans-serif;
+  text-decoration: none;
+  box-shadow: none;
+  -webkit-transition: all 0.3s ease;;
+  -moz-transition: all 0.3s ease;;
+  -o-transition: all 0.3s ease;;
+  transition: all 0.3s ease;
+}
+
+.btnf-poem{
+  margin-bottom: 10%;
+  display: inline-block;
+  cursor: pointer; 
+  text-decoration:none;
+  padding:15px 50px; 
+  color:#ffffff;
+  background:#b27569;
+  border-radius: 0px 30px 0px 30px;
+  border: 0px solid #ffffff;
+  box-shadow: 0px 4px 8px 3px rgba(179, 117, 105, 0.6);
+  font-family: sans-serif;
+}
+.btnf-poem:hover{
+  background:#b27569;
+  color:#fff;
+  font-family: sans-serif;
+  text-decoration: none;
+  box-shadow: none;
+  -webkit-transition: all 0.3s ease;;
+  -moz-transition: all 0.3s ease;;
+  -o-transition: all 0.3s ease;;
+  transition: all 0.3s ease;
+}
+
+/*ТОП-10*/
+
+
+
+.top-poem:hover{
+  text-decoration: none;
+}
+
+
+
+/*Фото-автора*/
+.ap{
+  border-radius: 0px 0px 100px 0px;
+}
+
+.au-h1{
+  margin-top: 5%;
+}
+
+/*Стихи на все случаи жизни*/
+
+.for-all-moments{
+/*  background-image: url(../img/vec-back.png);*/
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 7%;
+}
+
+.ic{
+  padding-left: 10%;
+}
+
+
+.ic-i{
+  padding-left: 5%;
+  font-size: 22px;
+  color: rgb(255,255,255);
+  padding-bottom: 2%;
+  font-family: sans-serif;
+}
+
+.ic-i:hover{
+  padding-left: 5%;
+  font-size: 22px;
+  color: rgb(255,255,255,0.6);
+  padding-bottom: 2%;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.fam-heading{
+  padding-left: 4%;
+  padding-top: 7%;
+  padding-bottom: 5%;
+  color: white;
+}
+
+
+/*Примеры наших работ*/
+
+
+
+
+.examples{
+  margin-top: 7%;
+}
+
+.swiper-container{
+  margin-bottom: 5%;
+  box-shadow: 0px 15px 25px 11px rgba(179, 117, 105, 0.4);
+}
+
+
+.otziv{
+  background-color: salmon;
+}
+
+
+/*Футер*/
+
+.ins{
+  width: 100%;
+  background-color: transparent;
+  border-style: none;
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+}
